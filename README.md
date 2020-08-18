@@ -1,1 +1,1 @@
-# GAme-Analysis_EDA
+# Game-Analysis_EDA
